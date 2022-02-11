@@ -1,0 +1,13 @@
+,source,disaster_type,tags,Desa,Kecamatan,Kabupaten,Provinsi,long,lat,datetime
+2549,grasp,fire,"{ ""district_id"": null, ""local_area_id"": null, ""instance_region_code"": ""ID-JB"" }",Jatisari,Tanjungsari,Sumedang,Jawa Barat,107.79563999999999,-6.90861,2020-10-12 12:44:28
+2820,grasp,fire,"{ ""district_id"": null, ""local_area_id"": null, ""instance_region_code"": ""ID-JB"" }",Paledang,Bogor Tengah,Bogor,Jawa Barat,106.79571000000001,-6.6049,2021-02-02 02:10:44
+2825,grasp,fire,"{ ""district_id"": null, ""local_area_id"": null, ""instance_region_code"": ""ID-JB"" }",Paledang,Bogor Tengah,Bogor,Jawa Barat,106.79557,-6.60487,2021-02-02 02:33:32
+2826,grasp,fire,"{ ""district_id"": null, ""local_area_id"": null, ""instance_region_code"": ""ID-JB"" }",Paledang,Bogor Tengah,Bogor,Jawa Barat,106.79543000000001,-6.6049,2021-02-02 02:35:27
+2827,grasp,fire,"{ ""district_id"": null, ""local_area_id"": null, ""instance_region_code"": ""ID-JB"" }",Paledang,Bogor Tengah,Bogor,Jawa Barat,106.79573,-6.60493,2021-02-02 02:44:00
+2830,grasp,fire,"{ ""district_id"": null, ""local_area_id"": null, ""instance_region_code"": ""ID-JB"" }",Paledang,Bogor Tengah,Bogor,Jawa Barat,106.79536999999999,-6.604889999999999,2021-02-02 03:11:00
+2831,grasp,fire,"{ ""district_id"": null, ""local_area_id"": null, ""instance_region_code"": ""ID-JB"" }",Paledang,Bogor Tengah,Bogor,Jawa Barat,106.79523,-6.60492,2021-02-02 03:27:33
+3711,grasp,fire,"{ ""district_id"": ""3173"", ""local_area_id"": ""760"", ""instance_region_code"": ""ID-JK"" }",Senen,Senen,Jakarta Pusat,Daerah Khusus Ibukota Jakarta,106.83663,-6.17571,2021-09-04 08:26:20
+3832,grasp,fire,"{ ""district_id"": null, ""local_area_id"": null, ""instance_region_code"": ""ID-KB"" }",Sungai Putri,Matan Hilir Utara,Ketapang,Kalimantan Barat,110.05245,-1.62361,2021-07-30 03:37:15
+4008,grasp,fire,"{ ""district_id"": null, ""local_area_id"": null, ""instance_region_code"": ""ID-SA"" }",Tote,Bolang Itang Barat,Bolaang Mongondow Utara,Sulawesi Utara,123.3359957,0.9020433000000001,2021-10-28 07:46:32
+4015,grasp,fire,"{ ""district_id"": null, ""local_area_id"": null, ""instance_region_code"": ""ID-SA"" }",Sangkub I,Sangkub,Bolaang Mongondow Utara,Sulawesi Utara,123.6494493,0.8825084000000001,2021-10-29 17:01:34
+4106,grasp,fire,"{ ""district_id"": null, ""local_area_id"": null, ""instance_region_code"": ""ID-SS"" }",Pasar Prabumulih,Prabumulih Utara,Prabumulih,Sumatera Selatan,104.2419601,-3.42820827,2021-02-11 08:39:47
