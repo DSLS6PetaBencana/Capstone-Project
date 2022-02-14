@@ -6,3 +6,7 @@ Members:
 * Tony Wijaya
 * Andre
 * Resti
+
+Meta Data
+- https://gis.bnpb.go.id/
+- https://docs.petabencana.id/
