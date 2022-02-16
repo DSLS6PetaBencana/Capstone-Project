@@ -1,3 +1,0 @@
-,source,disaster_type,report_dat,tags,Desa,Kecamatan,Kabupaten,Provinsi,long,lat,datetime
-3747,grasp,haze,"{ ""report_type"": ""haze"", ""visibility"": 0, ""airQuality"": 1 }","{ ""district_id"": null, ""local_area_id"": null, ""instance_region_code"": ""ID-JI"" }",Madureso,Dawar Blandong,Mojokerto,Jawa Timur,112.4749,-7.348789999999999,2021-04-21 06:27:35
-4228,grasp,haze,"{ ""report_type"": ""haze"", ""visibility"": 0, ""airQuality"": 1 }","{ ""district_id"": null, ""local_area_id"": null, ""instance_region_code"": ""ID-SU"" }",Ombolata Ulu,Gunung Sitoli,Gunungsitoli,Sumatera Utara,97.6080537,1.2997728000000002,2021-12-27 09:08:11
