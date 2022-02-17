@@ -1,0 +1,19 @@
+,source,disaster_type,Desa,Kecamatan,Kabupaten,Provinsi,long,lat,datetime,report_type,volcanicSigns,evacuationNumber,evacuationArea,points
+0,grasp,volcano,Kesatrian,Blimbing,Malang,Jawa Timur,112.64466000000002,-7.98145,2021-01-19 03:40:36,volcano,[3],3,True,-1
+1,grasp,volcano,Cikahuripan,Lembang,Bandung Barat,Jawa Barat,107.61203,-6.759869999999999,2021-01-22 03:47:14,volcano,"[0, 1, 3, 4, 2]",2,True,1
+2,grasp,volcano,Kepuh Harjo,Cangkringan,Sleman,Daerah Istimewa Yogyakarta,110.44888,-7.5846,2021-01-27 16:11:20,volcano,[4],2,True,-1
+3,grasp,volcano,Tegalmulyo,Kemalang,Klaten,Jawa Tengah,110.46755,-7.5676,2021-01-27 16:15:35,volcano,[4],2,True,-1
+4,grasp,volcano,Sidorejo,Kemalang,Klaten,Jawa Tengah,110.47336999999999,-7.58875,2021-01-28 07:12:21,volcano,"[3, 4]",2,True,-1
+5,grasp,volcano,Tamansari,Licin,Banyuwangi,Jawa Timur,114.26194,-8.06265,2021-01-30 03:55:12,volcano,[4],2,True,-1
+6,grasp,volcano,Gunosari,Tlogosari,Bondowoso,Jawa Timur,114.055,-8.127930000000001,2021-09-02 07:58:16,volcano,[4],3,True,1
+7,grasp,volcano,Nglurup,Sendang,Tulungagung,Jawa Timur,111.80341000000001,-7.86578,2021-02-16 01:44:39,volcano,[4],3,True,-1
+8,grasp,volcano,Glagah Harjo,Cangkringan,Sleman,Daerah Istimewa Yogyakarta,110.45978000000001,-7.59777,2021-06-29 07:28:21,volcano,[4],1,True,-1
+9,grasp,volcano,Hargo Binangun,Pakem,Sleman,Daerah Istimewa Yogyakarta,110.4489137,-7.5496045,2021-09-10 05:53:11,volcano,[3],1,True,-1
+10,grasp,volcano,Belinteng,Sei Bingai,Langkat,Sumatera Utara,98.4425376,3.25453,2021-10-29 12:50:46,volcano,"[0, 1, 2, 3]",3,False,-1
+11,grasp,volcano,Tamansari,Ampelgading,Malang,Jawa Timur,112.92254448,-8.11017372,2021-11-24 03:19:13,volcano,[4],1,False,-1
+12,grasp,volcano,Kota Baru,Pontianak Selatan,Pontianak,Kalimantan Barat,109.3178916,-0.0534725,2021-04-12 11:01:20,volcano,[4],3,True,-1
+13,grasp,volcano,Tamansari,Ampelgading,Malang,Jawa Timur,112.92229240000002,-8.1079379,2021-04-12 11:11:48,volcano,[4],2,True,2
+14,grasp,volcano,Tamansari,Ampelgading,Malang,Jawa Timur,112.92200270000001,-8.1079246,2021-04-12 11:13:23,volcano,"[0, 4]",1,False,2
+15,grasp,volcano,Tamansari,Ampelgading,Malang,Jawa Timur,112.92227109999999,-8.1078943,2021-05-12 11:09:10,volcano,[4],1,True,-1
+16,grasp,volcano,Pakem Binangun,Pakem,Sleman,Daerah Istimewa Yogyakarta,110.419596,-7.6562551999999995,2021-09-12 11:28:32,volcano,"[0, 3, 4]",3,True,-1
+17,grasp,volcano,Supiturang,Pronojiwo,Lumajang,Jawa Timur,112.9806842,-8.1753274,2021-10-12 01:32:24,volcano,[4],2,True,1
