@@ -1,15 +1,13 @@
 import streamlit as st
 import pandas as pd
 import numpy as np 
+import matplotlib.pyplot as plt
+import plotly.express as px
+import plotly.graph_objects as go
 
 def data():
     df = pd.read_csv("dataset/PetaBencana_clean.csv")
-    data = {}
-    data['Desa'] = len(df['Desa'].unique())
-    data['Kecamatan'] = len(df['Kecamatan'].unique()) 
-    data['Kabupaten'] = len(df['Kabupaten'].unique())
-    data['Provinsi'] = len(df['Provinsi'].unique())
-    return data
+    return df
 
 def app():
 
@@ -31,32 +29,56 @@ def app():
 
 
     row1_2.image("Images/logoPetaBencanaID.png", caption='Peta Bencana Indonesia')
-   
+    df = data()
+    st.markdown("### Dataset")
+    st.dataframe(df)
+
     st.markdown("### Kasus")
 
-    datas = data()
+    
 
     kasus1, kasus2, kasus3, kasus4 = st.columns(4)
 
     with kasus1:
         st.markdown("**Desa**")
-        number1 = datas['Desa']
+        number1 = len(df['Desa'].unique())
         st.markdown(f"<h1 style='text-align: center; color: red;'>{number1}</h1>", unsafe_allow_html=True)
 
     with kasus2:
         st.markdown("**Kecamatan**")
-        number2 = datas['Kecamatan'] 
+        number2 = len(df['Kecamatan'].unique()) 
         st.markdown(f"<h1 style='text-align: center; color: red;'>{number2}</h1>", unsafe_allow_html=True)
 
     with kasus3:
         st.markdown("**Kabupaten**")
-        number3 = datas['Kabupaten'] 
+        number3 = len(df['Kabupaten'].unique()) 
         st.markdown(f"<h1 style='text-align: center; color: red;'>{number3}</h1>", unsafe_allow_html=True)
 
     with kasus4:
         st.markdown("**Provinsi**")
-        number4 = datas['Provinsi'] 
+        number4 = len(df['Provinsi'].unique())
         st.markdown(f"<h1 style='text-align: center; color: red;'>{number4}</h1>", unsafe_allow_html=True)
+
+    kasus11, kasus21 = st.columns(2)
+
+    with kasus11:
+        st.markdown("**Bencana di Indonesia**")
+        # df['lon'] = df['long']
+        # map_data = df[["lat", "lon"]]
+
+        # st.map(map_data)
+        fig = px.scatter_mapbox(df, lat="lat", lon="long", color="disaster_type", 
+                  color_continuous_scale=px.colors.cyclical.IceFire)
+        st.plotly_chart(fig)
+
+    with kasus21:
+        st.markdown("**Intensitas Bencana**")
+        fig = px.density_mapbox(df, lat='lat', lon='long', radius=10,
+                        center=dict(lat=0, lon=180), zoom=0,
+                        mapbox_style="stamen-terrain")
+        fig.update_layout()                
+        st.plotly_chart(fig)
+
 
     # st.markdown("<hr/>",unsafe_allow_html=True)
 
