@@ -1,0 +1,65 @@
+,source,disaster_type,Desa,Kecamatan,Kabupaten,Provinsi,long,lat,datetime,report_type,impact,points
+0,grasp,wind,Nanggung,Nanggung,Bogor,Jawa Barat,106.52635,-6.61666,2020-09-29 01:26:28,wind,1,99
+1,grasp,wind,Tanjung Rejo,Medan Sunggal,Medan,Sumatera Utara,98.63755,3.57345,2020-09-29 15:40:20,wind,0,99
+2,grasp,wind,Kepatihan,Banyuwangi,Banyuwangi,Jawa Timur,114.37755,-8.2109,2020-11-17 07:16:14,wind,0,1
+3,grasp,wind,Kebalenan,Banyuwangi,Banyuwangi,Jawa Timur,114.35311000000002,-8.22498,2020-11-19 11:27:40,wind,1,99
+4,grasp,wind,Baros,Baros,Sukabumi,Jawa Barat,106.94033,-6.96195,2020-06-12 03:49:27,wind,2,99
+5,grasp,wind,Neglasari,Nyalindung,Sukabumi,Jawa Barat,106.94306,-6.96891,2020-06-12 03:53:32,wind,2,99
+6,grasp,wind,Bojong,Karangtengah,Cianjur,Jawa Barat,107.16611999999999,-6.801819999999999,2020-08-12 10:55:04,wind,0,99
+7,grasp,wind,Poris Plawad Indah,Cipondoh,Tangerang,Banten,106.66581000000001,-6.194459999999999,2021-01-17 01:03:15,wind,0,0
+8,grasp,wind,Pakuan Aji,Sukadana,Lampung Timur,Lampung,105.62275,-5.11843,2021-01-23 12:41:08,wind,1,99
+9,grasp,wind,Bandar Lor,Mojoroto,Kediri,Jawa Timur,112.00639,-7.823910000000001,2021-01-30 03:06:03,wind,1,99
+10,grasp,wind,Gambir,Gambir,Jakarta Pusat,Daerah Khusus Ibukota Jakarta,106.82753000000001,-6.17399,2021-01-30 03:22:25,wind,1,99
+11,grasp,wind,Oro-Oro Ombo,Batu,Batu,Jawa Timur,112.51933000000001,-7.89774,2021-01-30 03:37:29,wind,1,99
+12,grasp,wind,Purbahayu,Pangandaran,Pangandaran,Jawa Barat,108.65063,-7.64507,2021-01-02 03:44:42,wind,2,99
+13,grasp,wind,Penggilingan,Cakung,Jakarta Timur,Daerah Khusus Ibukota Jakarta,106.94096,-6.207669999999999,2021-02-02 09:37:31,wind,0,99
+14,grasp,wind,Pecatu,Kuta Selatan,Badung,Bali,115.12386000000001,-8.803460000000001,2021-03-02 09:56:37,wind,0,99
+15,grasp,wind,Mangunharjo,Tembalang,Semarang,Jawa Tengah,110.46896000000001,-7.05255,2021-06-02 02:07:11,wind,1,99
+16,grasp,wind,Bandar Lor,Mojoroto,Kediri,Jawa Timur,112.00665,-7.82442,2021-06-02 02:48:59,wind,0,99
+17,grasp,wind,Mojopurno,Wungu,Madiun,Jawa Timur,111.55963,-7.64531,2021-06-02 03:08:59,wind,1,99
+18,grasp,wind,Bandar Jaya Timur,Terbanggi Besar,Lampung Tengah,Lampung,105.21217,-4.93571,2021-09-02 07:39:02,wind,0,99
+19,grasp,wind,Penggilingan,Cakung,Jakarta Timur,Daerah Khusus Ibukota Jakarta,106.9415,-6.20715,2021-02-16 03:50:07,wind,1,99
+20,grasp,wind,Pecatu,Kuta Selatan,Badung,Bali,115.12323,-8.80494,2021-02-17 12:32:42,wind,0,99
+21,grasp,wind,Klepu,Pringapus,Semarang,Jawa Tengah,110.4457,-7.1849300000000005,2021-02-20 01:18:46,wind,0,99
+22,grasp,wind,Gambir,Gambir,Jakarta Pusat,Daerah Khusus Ibukota Jakarta,106.82685,-6.17448,2021-02-23 07:57:17,wind,1,99
+23,grasp,wind,Penjaringan,Penjaringan,Jakarta Utara,Daerah Khusus Ibukota Jakarta,106.80713,-6.12105,2021-02-25 17:22:45,wind,1,1
+24,grasp,wind,Mampang Prapatan,Mampang Prapatan,Jakarta Selatan,Daerah Khusus Ibukota Jakarta,106.82708999999998,-6.24073,2021-05-03 11:23:56,wind,1,99
+25,grasp,wind,Serdang,Kemayoran,Jakarta Pusat,Daerah Khusus Ibukota Jakarta,106.85752,-6.15915,2021-07-03 06:54:22,wind,0,99
+26,grasp,wind,Gambir,Gambir,Jakarta Pusat,Daerah Khusus Ibukota Jakarta,106.82608,-6.18021,2021-10-03 03:00:36,wind,1,99
+27,grasp,wind,Sikumana,Maulafa,Kota Kupang,Nusa Tenggara Timur,123.61085,-10.205169999999999,2021-04-04 23:22:48,wind,1,99
+28,grasp,wind,Kelapa Lima,Kelapa Lima,Kota Kupang,Nusa Tenggara Timur,123.61523999999999,-10.15837,2021-04-04 23:39:38,wind,1,99
+29,grasp,wind,Kelurahan Matawai,Kota Waingapu,Sumba Timur,Nusa Tenggara Timur,120.26369,-9.65218,2021-05-04 13:42:06,wind,1,99
+30,grasp,wind,Kelurahan Kamalaputi,Kota Waingapu,Sumba Timur,Nusa Tenggara Timur,120.26461,-9.64718,2021-05-04 14:02:13,wind,1,99
+31,grasp,wind,Ciater,Serpong,Tangerang Selatan,Banten,106.69413,-6.32632,2021-04-15 08:29:56,wind,1,99
+32,grasp,wind,Sawahan Timur,Padang Timur,Padang,Sumatera Barat,100.37273,-0.93925,2021-04-21 04:16:57,wind,1,99
+33,grasp,wind,Sumurpanggang,Margadana,Tegal,Jawa Tengah,109.10421000000001,-6.87874,2021-04-22 15:03:57,wind,1,99
+34,grasp,wind,-,-,Banyuwangi,Jawa Timur,114.3857,-8.20503,2021-06-16 10:37:58,wind,0,99
+35,grasp,wind,Cibabat,Cimahi Utara,Cimahi,Jawa Barat,107.552972,-6.877852000000001,2021-02-08 15:20:54,wind,1,99
+36,grasp,wind,Cibabat,Cimahi Utara,Cimahi,Jawa Barat,107.55332,-6.877553,2021-02-08 15:16:46,wind,1,99
+37,grasp,wind,Loa Bakung,Sungai Kunjang,Samarinda,Kalimantan Timur,117.095135195,-0.508371935,2021-12-09 00:00:00,wind,0,1
+38,grasp,wind,Sunggal Kanan,Sunggal,Deli Serdang,Sumatera Utara,98.594911594,3.5924333180000003,2021-09-23 00:00:00,wind,2,1
+39,grasp,wind,Batoh,Lueng Bata,Banda Aceh,Aceh,95.329543948,5.53409558,2021-09-28 00:00:00,wind,0,99
+40,grasp,wind,Karanglo,Klaten Selatan,Klaten,Jawa Tengah,110.5799243,-7.6949881,2021-10-28 11:49:19,wind,0,99
+41,grasp,wind,Salagedang,Cibeber,Cianjur,Jawa Barat,107.147953,-6.966828200000001,2021-10-28 01:21:08,wind,0,99
+42,grasp,wind,Kedungumpul,Kandangan,Temanggung,Jawa Tengah,110.18216640000001,-7.2884382,2021-10-31 12:49:47,wind,1,99
+43,grasp,wind,Sukahaji,Babakan Ciparay,Bandung,Jawa Barat,107.58175135,-6.92312517,2021-11-24 01:19:20,wind,0,99
+44,grasp,wind,Busisingo Utara,Sangkub,Bolaang Mongondow Utara,Sulawesi Utara,123.59012604,0.90214339,2021-05-11 03:23:13,wind,0,99
+45,grasp,wind,Sukamulya,Karangtengah,Cianjur,Jawa Barat,107.17819703,-6.80038212,2021-02-11 08:52:25,wind,1,99
+46,grasp,wind,Kademangan,Mande,Cianjur,Jawa Barat,107.20374141,-6.76865649,2021-02-11 08:56:03,wind,1,99
+47,grasp,wind,Sawah Gede,Cianjur,Cianjur,Jawa Barat,107.13679855,-6.8258921,2021-09-11 15:02:12,wind,1,99
+48,grasp,wind,Cibadak,Cibeber,Cianjur,Jawa Barat,107.13997159,-6.95204525,2021-07-11 11:21:26,wind,0,99
+49,grasp,wind,Cakranegara Timur,Cakranegara,Mataram,Nusa Tenggara Barat,116.12966716,-8.58766753,2021-02-11 06:56:33,wind,1,99
+50,grasp,wind,Ketanggi,Ngawi,Ngawi,Jawa Timur,111.44459903,-7.4036113,2021-11-27 15:29:31,wind,1,99
+51,grasp,wind,Manggong,Ngadirejo,Temanggung,Jawa Tengah,110.0614965,-7.23599334,2021-02-11 07:29:10,wind,1,99
+52,grasp,wind,Padureso,Jumo,Temanggung,Jawa Tengah,110.11133194,-7.22795218,2021-11-24 03:13:05,wind,1,99
+53,grasp,wind,Kaloran,Kaloran,Temanggung,Jawa Tengah,110.246703,-7.2492229,2021-01-12 16:08:40,wind,1,99
+54,grasp,wind,Wanutengah,Parakan,Temanggung,Jawa Tengah,110.10705109999999,-7.2862539,2021-02-12 09:49:19,wind,2,99
+55,grasp,wind,Petirejo,Ngadirejo,Temanggung,Jawa Tengah,110.06491899999999,-7.242938099999999,2021-02-12 09:54:53,wind,1,99
+56,grasp,wind,Kaloran,Kaloran,Temanggung,Jawa Tengah,110.24823190000001,-7.2450453999999995,2021-02-12 09:58:32,wind,1,99
+57,grasp,wind,Tugu Utara,Koja,Jakarta Utara,Daerah Khusus Ibukota Jakarta,106.9133881,-6.1269224,2021-12-17 08:02:28,wind,0,99
+58,grasp,wind,Sukasari,Tangerang,Tangerang,Banten,106.6299775,-6.177697,2021-12-23 07:47:47,wind,2,99
+59,grasp,wind,Sukasari,Tangerang,Tangerang,Banten,106.6334912,-6.1779583,2021-12-23 07:54:49,wind,2,99
+60,grasp,wind,Blayu,Wajak,Malang,Jawa Timur,112.73101670000001,-8.116983,2021-12-24 21:47:00,wind,2,99
+61,grasp,wind,Cicalengka Wetan,Cicalengka,Bandung,Jawa Barat,107.84951000000001,-6.9960631,2021-12-25 11:09:59,wind,1,99
+62,grasp,wind,Sindangrasa,Bogor Timur,Bogor,Jawa Barat,106.8303283,-6.634361999999999,2021-12-25 16:58:54,wind,0,99
+63,grasp,wind,Ciburuy,Cigombong,Bogor,Jawa Barat,106.80326699999999,-6.735744099999999,2021-12-26 05:57:00,wind,2,99
