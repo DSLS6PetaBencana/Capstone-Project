@@ -42,19 +42,45 @@ PetaBencana.id adalah platform gratis berbasis website yang menghasilkan visuali
   * Angin Kencang
   * Kebakaran Hutan  
 * Titik Lokasi
-  <img src="TitikBencana.jpg"  height="200"/>
+  * <img src="TitikBencana.jpg"  height="400"/>
 * Problem yang Ditemukan
+  * <img src="MasalahyangDigunakan.png"  height="400"/>
 
 #### Data Preparation
 * What we do in preparation
+  * Data Cleaning
+    * Replace missing value
+    * Remove duplicate data
+    * Change datatype
+    * Text cleaning
+    * Dealing incorrect longitude & latitude 
+  * Feature Engineering 
+    * Made disaster type column
+    * Made date time column
+    * Generate longitude & latitude 
+  * Feature Selection 
+    * Eliminate unusefull feature 
 * Before after cleaning
+  * Peta Bencana 
+    * Before (4235 rows, 21 columns)
+    * After (4208 rows, 9 columns)
+  * BNPB
+    * Before (2968 rows, 14 columns)
+    * After (2968 rows, 12 columns)  
 
 #### Analysis & Modelling
 * Timeline & impact analysis
+  * <img src="TimeLineAnalysis.jpg"  height="400"/>
+  * <img src="impactAnalysis.jpg"  height="400"/>
 * Text analysis
+  * <img src="TimeLineAnalysis.jpg"  height="400"/>
 * Machine learning model
+  * <img src="ModellingCluster.jpg"  height="400"/>
 
 #### Future Improvement
 * Things to improve
+  * Clustering dapat dilakukan pada tipe bencana lainnya bila datanya memungkinkan.  Selanjutnya clustering dapat terus disempurnakan dengan cara menambah data bencana dari tahun sebelum 2020 maupun sesudah 2021. 
 * Recomendation
+  * Daerah-daerah yang masuk ke cluster 1,2, dan 3 dapat menjadi prioritas pemerintah dalam usaha perbaikan pasca bencana
+  * Kami merekomendasikan setiap stakeholder yang berkaitan dalam penanggulangan bencana untuk saling bekerjasama, khususnya dalam melakukan penyeragaman data dan  kebijakan satu data. 
 
