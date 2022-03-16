@@ -42,7 +42,7 @@ PetaBencana.id adalah platform gratis berbasis website yang menghasilkan visuali
   * Angin Kencang
   * Kebakaran Hutan  
 * Titik Lokasi
-  <img src="TitikBencana.jpg"  height="200"/>
+  * <img src="TitikBencana.jpg"  height="200"/>
 * Problem yang Ditemukan
 
 #### Data Preparation
