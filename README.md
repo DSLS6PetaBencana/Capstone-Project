@@ -22,3 +22,39 @@ PetaBencana.id adalah platform gratis berbasis website yang menghasilkan visuali
 
 ### Step Pengolahan Data
 <img src="Step2PengolahanData.png"  height="200"/>
+
+#### Load Data
+* Tools Used
+  * Python
+  * Github
+  * Microsoft Excel
+  * Microsoft Power BI
+* Dataset
+  * Peta Bencana (4235 Row, 21 Column)
+  * BNPB (2986 Row, 14 Column)  
+
+#### Explanatory Data Analysis
+* Jenis Bencana
+  * Banjir
+  * Gempa Bumi
+  * Gunung Api
+  * Kabut Asap
+  * Angin Kencang
+  * Kebakaran Hutan  
+* Titik Lokasi
+  <img src="TitikBencana.jpg"  height="200"/>
+* Problem yang Ditemukan
+
+#### Data Preparation
+* What we do in preparation
+* Before after cleaning
+
+#### Analysis & Modelling
+* Timeline & impact analysis
+* Text analysis
+* Machine learning model
+
+#### Future Improvement
+* Things to improve
+* Recomendation
+
