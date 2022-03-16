@@ -1,8 +1,9 @@
 # Capstone-Project Title <br>Get Insight From Natural Disaster Report Data
 Powered by **PetaBencana** &amp; **BNPB**: Badan Nasional Penanggulangan Bencana
 <p float="left">
-  <img src="LogoBNPB.jpg" height="200"/>
-  <img src="LogoPetaBencana"  height="200"/>
+  <img src="logoBNPB.jpg" height="200" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="LogoPetaBencana.jpg"  height="200"/>
 </p>
 
 ### Members:
