@@ -1,8 +1,8 @@
 # Capstone-Project Title <br>Get Insight From Natural Disaster Report Data
 Powered by **PetaBencana** &amp; **BNPB**: Badan Nasional Penanggulangan Bencana
 <p float="left">
-  <img src="https://1.bp.blogspot.com/-OoRPhaV2C5E/YGxXDwCyf0I/AAAAAAAAIOU/U41nqGboUCo8LRqEgoTLHZ7mbHETyrpjQCLcBGAsYHQ/s888/LOGO-BNPB.png" height="200"/>
-  <img src="https://petabencana.id/assets/graphics/Peta_logo.svg"  height="200"/>
+  <img src="LogoBNPB.jpg" height="200"/>
+  <img src="LogoPetaBencana"  height="200"/>
 </p>
 
 ### Members:
@@ -42,9 +42,9 @@ PetaBencana.id adalah platform gratis berbasis website yang menghasilkan visuali
   * Angin Kencang
   * Kebakaran Hutan  
 * Titik Lokasi
-  * <img src="TitikBencana.jpg"  height="400"/>
+  * <img src="TitikBencana.jpg"  height="200"/>
 * Problem yang Ditemukan
-  * <img src="MasalahyangDigunakan.png"  height="400"/>
+  * <img src="MasalahyangDitemukan.png"  height="200"/>
 
 #### Data Preparation
 * What we do in preparation
@@ -70,12 +70,12 @@ PetaBencana.id adalah platform gratis berbasis website yang menghasilkan visuali
 
 #### Analysis & Modelling
 * Timeline & impact analysis
-  * <img src="TimeLineAnalysis.jpg"  height="400"/>
-  * <img src="impactAnalysis.jpg"  height="400"/>
+  * <img src="TimeLineAnalysis.jpg"  height="200"/>
+  * <img src="impactAnalysis.jpg"  height="200"/>
 * Text analysis
-  * <img src="TimeLineAnalysis.jpg"  height="400"/>
+  * <img src="TextAnalysis.png"  height="200"/>
 * Machine learning model
-  * <img src="ModellingCluster.jpg"  height="400"/>
+  * <img src="ModellingCluster.png"  height="200"/>
 
 #### Future Improvement
 * Things to improve
